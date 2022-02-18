@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Fang",
+			"hungrygf",
+			[
+				218,
+				20,
+				197
+			]
+		],
+		[
+			"Succ",
+			"susgf",
+			[
+				218,
+				20,
+				197
+			]
+		],
+		[
+			"Nom",
+			"vampgf",
+			[
+				218,
+				20,
+				197
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"difficulties": "easy, normal, hard, getreal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Bloody Bedtime",
+	"weekName": "Bloody Bedtime",
+	"freeplayColor": [
+		218,
+		20,
+		197
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
